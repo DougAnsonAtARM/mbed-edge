@@ -6,7 +6,8 @@
 	url = https://github.com/libevent/libevent
 [submodule "lib/libwebsockets/libwebsockets"]
 	path = lib/libwebsockets/libwebsockets
-	url = https://github.com/ARMmbed/libwebsockets.git
+	url = https://github.com/DougAnsonAtARM/libwebsockets.git
+	branch = v3.1-arm
 [submodule "lib/mbedtls"]
 	path = lib/mbedtls
 	url = https://github.com/ARMmbed/mbedtls
